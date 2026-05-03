@@ -11,6 +11,7 @@ TARGET AUDIENCE: Year 7 science students
 
 FUNCTIONAL REQUIREMENTS
 ------------------------------
+
 FR1. wasd or arrow keys to move
 FR2. win or lose screen
 FR3. menu or start page
@@ -19,6 +20,7 @@ FR5. score
 
 NON-FUNCTIONAL REQUIREMENTS
 ------------------------------
+
 NFR1. quick totorial
 NFR2. game can be played on school laptops
 NFR3. simple to learn to play
@@ -26,6 +28,7 @@ NFR4. easy to navigate to levels from start page
 
 CONSTRAINTS
 ------------------------------
+
 CON1. reef is made by the student
 CON2. 4 weeks
 CON3. every key dose somthing
@@ -34,11 +37,13 @@ CON5. has to work on school laptops
 
 SCOPE — IN SCOPE
 ------------------------------
+
 ✓ level looks like a reef
 ✓ you can tell that the player is a submarine just by looking at it
 
 SCOPE — OUT OF SCOPE
 ------------------------------
+
 ✗ 100 different submarines you can use
 ✗ 200 levels
 ✗ online acounts
@@ -64,6 +69,7 @@ Target Audience (who is this game for?):
 
 Functional Requirements
 List at least 5 things your game MUST DO:
+
 FR1	 Up arrow to pedal down to break left and right arrows to lean
 
 
@@ -86,6 +92,7 @@ FR6
 
 Non-Functional Requirements
 List at least 4 quality attributes your game SHOULD HAVE:
+
 NFR1	  60 second tutorial
 
 
