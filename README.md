@@ -1,5 +1,9 @@
 # 2026_year9_gamedev_capstone
 
+4/5/26
+-game desing doc
+
+
 27/4/26
 GAMEDEV STUDIO — EXAMPLE GAME ANALYSIS
 Requirements & Scope
