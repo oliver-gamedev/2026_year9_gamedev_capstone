@@ -1,5 +1,11 @@
 # 2026_year9_gamedev_capstone
 
+11/5/26
+-onion 
+-four courners
+-game desing eliment checlist
+-evaluation criteria
+
 4/5/26
 -game desing doc
 -started onion
